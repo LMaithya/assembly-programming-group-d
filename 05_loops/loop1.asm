@@ -1,4 +1,4 @@
-; simple loop
+simple; simple loop
 
 section .data
     str_msg db "Hello from LOOP!", 10
